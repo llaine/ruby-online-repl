@@ -7,10 +7,6 @@ Scenario to be reproduced
 
 ```ruby
 # Installing concurrent-ruby gem 
-ruby app.rb concurrent-ruby
-# Launching a repl session
-irb
-# Inside the session
 require 'concurrent'
 => true
 
