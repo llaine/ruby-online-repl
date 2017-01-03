@@ -2,6 +2,9 @@
 
 WIP
 
+
+Scenario to be reproduced 
+
 ```ruby
 # Installing concurrent-ruby gem 
 ruby app.rb concurrent-ruby
